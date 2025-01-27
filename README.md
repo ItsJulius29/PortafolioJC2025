@@ -6,4 +6,4 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 
 | #   | Proyecto                          | Live Demo                                |
 | --- | --------------------------------- | --------------------------------------- |
-| 01  | Expanding Cards                  | [Live Demo](https://itsjulius29.github.io/PortafolioJC2025/Expanding-Cards) |
+| 01  | Expanding Cards                  | [Live Demo](https://itsjulius29.github.io/PortafolioJC2025/ExpandingCards) |
