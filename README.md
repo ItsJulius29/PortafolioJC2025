@@ -13,3 +13,4 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 05  | Blurry Loading                | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/BlurryLoading) |
 | 06  | Scroll Animation                | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/ScrollAnimation) |
 | 07  | Split Landing Page                | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/SplitLandingPage) |
+| 08  | FormWave               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/FormWave) |
