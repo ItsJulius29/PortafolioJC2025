@@ -6,8 +6,9 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 
 | #   | Proyecto                          | Ver Proyecto                              |
 | --- | --------------------------------- | --------------------------------------- |
-| 01  | Expanding Cards                  | [Ir](https://itsjulius29.github.io/PortafolioJC2025/ExpandingCards) |
-| 02  | Progress Steps                    | [Ir](https://itsjulius29.github.io/PortafolioJC2025/ProgressSteps) |
-| 03  | Rotating Navigation Animation               | [Ir](https://itsjulius29.github.io/PortafolioJC2025/RotatingNavigationAnimation) |
-| 04  | Hidden Search Widget               | [Ir](https://itsjulius29.github.io/PortafolioJC2025/HiddenSearchWidget) |
-| 05  | Blurry Loading                | [Ir](https://itsjulius29.github.io/PortafolioJC2025/BlurryLoading) |
+| 01  | Expanding Cards                  | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/ExpandingCards) |
+| 02  | Progress Steps                    | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/ProgressSteps) |
+| 03  | Rotating Navigation Animation               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/RotatingNavigationAnimation) |
+| 04  | Hidden Search Widget               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/HiddenSearchWidget) |
+| 05  | Blurry Loading                | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/BlurryLoading) |
+| 06  | Scroll Animation                | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/ScrollAnimation) |
