@@ -15,4 +15,5 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 07  | Split Landing Page                | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/SplitLandingPage) |
 | 08  | FormWave               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/FormWave) |
 | 09  | Sound Board               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/SoundBoard) |
-| 09  | Dad Joke               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/DadJoke) |
+| 10  | Dad Joke               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/DadJoke) |
+| 11  | Event Keycode               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/EventKeycodes) |
