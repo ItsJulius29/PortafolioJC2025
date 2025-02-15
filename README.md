@@ -18,3 +18,4 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 10  | Dad Joke               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/DadJoke) |
 | 11  | Event Keycode               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/EventKeycodes) |
 | 12  | FAQ Collapse               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/FaqCollapse) |
+| 13  | Random Choice Picker               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/RandomChoicePicker) |
