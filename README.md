@@ -23,4 +23,5 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 15  | Incrementing Counter               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/IncrementingCounter) |
 | 16  | Drink Water               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/DrinkWater) |
 | 17  | Movie App               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/MovieApp) |
+| 18  | Background Slider               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/BackgroundSlider) |
 
