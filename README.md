@@ -21,3 +21,4 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 13  | Random Choice Picker               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/RandomChoicePicker) |
 | 14  | Animated Navigation               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/AnimatedNavigation) |
 | 15  | Incrementing Counter               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/IncrementingCounter) |
+| 16  | Drink Water               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/DrinkWater) |
