@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+    color: #333;
+    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+body.dark {
+    background-color: #222;
+    color: #fff;
+}
+
+button {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover {
+    background: #555;
+}
+
+.clock-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.clock {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #333;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.needle {
+    position: absolute;
+    width: 50%;
+    height: 2px;
+    background: #333;
+    top: 50%;
+    transform-origin: 100%;
+    transform: rotate(90deg);
+    transition: transform 0.5s ease-in-out;
+    margin-right: 65px;
+}
+
+.needle.minute {
+    height: 2px;
+    background: #666;
+    width: 45%;
+}
+
+.needle.second {
+    height: 1px;
+    background: red;
+    width: 45%;
+}
+
+.center-circle {
+    width: 8px;
+    height: 8px;
+    background: #333;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.time {
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+.date {
+    font-size: 1.2rem;
+    margin-top: 5px;
+}
+
+body.dark .clock {
+    border-color: #fff;
+}
+
+body.dark .needle {
+    background: #fff;
+}
+
+body.dark .needle.second {
+    background: red;
+}
+
+body.dark .center-circle {
+    background: #fff;
+}
