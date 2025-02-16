@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.ripple-btn {
+    position: relative;
+    overflow: hidden;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: white;
+    background-color: #3498db;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    transition: background 0.3s ease-in-out;
+}
+
+.ripple-btn:hover {
+    background-color: #2980b9;
+}
+
+.ripple {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.6);
+    transform: scale(0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: rippleEffect 0.6s linear;
+}
+
+@keyframes rippleEffect {
+    to {
+        transform: scale(4);
+        opacity: 0;
+    }
+}
