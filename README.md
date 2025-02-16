@@ -19,3 +19,4 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 11  | Event Keycode               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/EventKeycodes) |
 | 12  | FAQ Collapse               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/FaqCollapse) |
 | 13  | Random Choice Picker               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/RandomChoicePicker) |
+| 14  | Animated Navigation               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/AnimatedNavigation) |
