@@ -29,4 +29,5 @@ Este repositorio contiene una colección de proyectos desarrollados con HTML, CS
 | 21  | Drag & Drop               | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/Drag&Drop) |
 | 22  | Drawing App              | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/DrawingApp) |
 | 23  | Kinetic Loader              | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/KineticLoader) |
+| 24  | Content Loader              | [Entrar](https://itsjulius29.github.io/PortafolioJC2025/ContentLoader) |
 
